@@ -1,0 +1,18 @@
+evaluate==0.4.2
+spacy<=3.7.6
+textdescriptives==2.8.2
+bert-score==0.3.13
+rouge_score ==0.1.2
+nltk== 3.9.1
+gsutil==5.30
+datasets==2.21.0
+ollama== 0.3.2
+openai==1.43.0
+scikit-learn==1.5.1
+pydantic-settings==2.4.0
+numpy== 1.26.4
+networkx==3.3
+uvicorn== 0.30.6
+tensorflow>=1.15
+tf-slim >=1.1
+PyPDF2==3.0.1
