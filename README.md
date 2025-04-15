@@ -1,8 +1,12 @@
 <h1 align="center">Voyverse — Markov-Enhanced Long Document Summarization</h1>
 <p align="center">
-  <img src="https://www.voyverse.com/logo.png" alt="Voyverse Logo" width="250"/>
+  <img src="https://www.voyverse.com/logo.png" alt="Voyverse Logo" width="270"/>
   <img src="https://insat.rnu.tn/assets/images/logo_c.png" alt="INSAT logo" width ="100">
 </p>
+<p align="center">
+ <img src="https://ifipaiai.org/wp-content/uploads/2021/10/aiai_site_logo-1.png" alt="INSAT logo" width ="280">
+</p>
+
 
 <p align="center">
   Official implementation of the research paper:<br>
